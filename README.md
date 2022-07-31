@@ -29,7 +29,7 @@
   <li>
     Additional (if possible): Wind speed, rainfall, temp, humidity, pressure
   </li>
-<ol>
+</ol>
 
 <br>
 
@@ -45,6 +45,7 @@
   <li>
     Upsampling weather data to merge with pollutant data as there will be a difference in the frequency of data recorded
   </li>
+</ol>
 
 <br>
 
@@ -61,6 +62,7 @@ Various neural networks models for multivariate time series prediction
   <li>
     Morning, Afternoon, Evening, Night
   </li>
+</ol>
 
 <br>
 
@@ -94,3 +96,4 @@ Various neural networks models for multivariate time series prediction
   <li>
     Model Evaluation
   </li>
+</ol>
