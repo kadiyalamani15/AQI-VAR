@@ -1,10 +1,23 @@
 # Comparative study of Air Quality Index Prediction using Vector AutoRegression and Neural Networks
 
+### Summary
+<br>
+
+<p>
+
+</p>
+
 <br>
 
 ### Hypothesis:
-Probability of more extended forecasting and improved accuracy  over training three years of data in comparison to one year's data using Vector AutoRegression
-Finer Forecasting of Neural Network's model over Vector AutoRegression
+<ol>
+  <li>
+  Probability of more extended forecasting and improved accuracy  over training three years of data in comparison to one year's data using Vector AutoRegression 
+  </li>
+  <li>
+    Finer Forecasting of Neural Network's model over Vector AutoRegression
+  </li>
+</ol>
 
 <br>
 
