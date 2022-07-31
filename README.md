@@ -22,8 +22,14 @@
 <br>
 
 ### Data:
-Available: Pollutant concentration levels with a frequency of 15 min
-Additional (if possible): Wind speed, rainfall, temp, humidity, pressure
+<ol>
+  <li>
+    Available: Pollutant concentration levels with a frequency of 15 min
+  </li>
+  <li>
+    Additional (if possible): Wind speed, rainfall, temp, humidity, pressure
+  </li>
+<ol>
 
 <br>
 
@@ -32,29 +38,59 @@ Additional (if possible): Wind speed, rainfall, temp, humidity, pressure
 <br>
 
 ### Challenges:
-Handling Null data
-Upsampling weather data to merge with pollutant data as there will be a difference in the frequency of data recorded
+<ol>
+  <li>
+    Handling Null data
+  </li>
+  <li>
+    Upsampling weather data to merge with pollutant data as there will be a difference in the frequency of data recorded
+  </li>
 
 <br>
 
 ### Knowledge gap:
 Various neural networks models for multivariate time series prediction
-Feature Extraction:
-Season (spring, summer, monsoon, winter)
-Morning, Afternoon, Evening, Night
+  
+<br>
+  
+### Feature Extraction:
+<ol>
+  <li> 
+    Season (spring, summer, monsoon, winter)
+  </li>
+  <li>
+    Morning, Afternoon, Evening, Night
+  </li>
 
 <br>
 
 ### Future Scope:
-Include the Topography feature, and train the model, along with more than one place
+<p align="justify">
+  Include the Topography feature, and train the model, along with more than one place.
+</p>
 
 <br>
 
 ### Methodology:
-Data Collection
-Data Stationarity Check
-Data Processing (Missing values imputation)
-Exploratory Data Analysis (Correlation, Autocorrelation, ADF test, Granger-causality Test)
-Train models
-Forecast
-Model Evaluation
+<ol>
+  <li>
+    Data Collection
+  </li>
+  <li>
+    Data Stationarity Check
+  </li>
+  <li>
+    Data Processing (Missing values imputation)
+  </li>
+   <li>
+    Exploratory Data Analysis (Correlation, Autocorrelation, ADF test, Granger-causality Test)
+  </li>
+  <li>
+    Train models
+  </li>
+  <li>
+    Forecast
+  </li>
+  <li>
+    Model Evaluation
+  </li>
